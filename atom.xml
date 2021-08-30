@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.zgkdbk.com</id>
+    <id>https://Suremotoo10.github.io</id>
     <title>Gridea</title>
-    <updated>2021-08-30T08:21:14.702Z</updated>
+    <updated>2021-08-30T08:32:39.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.zgkdbk.com"/>
-    <link rel="self" href="https://www.zgkdbk.com/atom.xml"/>
+    <link rel="alternate" href="https://Suremotoo10.github.io"/>
+    <link rel="self" href="https://Suremotoo10.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://www.zgkdbk.com/images/avatar.png</logo>
-    <icon>https://www.zgkdbk.com/favicon.ico</icon>
+    <logo>https://Suremotoo10.github.io/images/avatar.png</logo>
+    <icon>https://Suremotoo10.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://www.zgkdbk.com/post/hello-gridea/</id>
-        <link href="https://www.zgkdbk.com/post/hello-gridea/">
+        <id>https://Suremotoo10.github.io/post/hello-gridea/</id>
+        <link href="https://Suremotoo10.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
